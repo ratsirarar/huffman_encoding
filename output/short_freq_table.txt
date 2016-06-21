@@ -1,0 +1,17 @@
+***************************************
+Crypto HuffmanEncoding
+***************************************
+
+* Tree Representation Huffman Encoding *
+XYZ:6;
+X:3;
+YZ:3;
+Y:1;
+Z:2;
+
+
+* Encoding Table from Frequency Table *
+X:0; 
+Y:10; 
+Z:11; 
+
